@@ -2,6 +2,10 @@
 
 This project is a simple ecommerce simulation built using React, Bootstrap, and Vite. It was created as a coding exercise to practice building a frontend application with React.
 
+## Test
+
+https://ecommerce-react-boonedev.netlify.app/
+
 ## Features
 
 - Displaying products with names, prices, and descriptions
